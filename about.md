@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+שלום, שמי עומר נשוי לחן ואבא לנדב.
+אני עובד כמהנדס תוכנה, ומדי פעם נתקל בדברים מעניינים ששווה לחלוק.
+תחומי עניין עיקריים- לינוקס אדמיניסטריישן ושפת פייתון.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+{:refdef: style="text-align: center;"}                                             
+![The big bots project](/img/20190222_151015.jpg)                                    
+{: refdef} 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+קריאה מהנה!
+
+קוד המקור של אתר זה זמין פה:
+{% include icon-github.html username="mromerdagan" %} /
+[mromerdagan.github.io](https://github.com/mromerdagan/mromerdagan.github.io)
