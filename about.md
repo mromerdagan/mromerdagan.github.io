@@ -15,7 +15,7 @@ software engineering.
 For me, beeing a programmer / SW engineer means using best practices patterns to solve new
 problems.
 
-This "blog" is more of a presonal documentation website.
+This "blog" is more of a presonal documentation website than a real blog.
 
 {:refdef: style="text-align: center;"}                                             
 ![The big bots project](/img/20190222_151015.jpg)                                    
