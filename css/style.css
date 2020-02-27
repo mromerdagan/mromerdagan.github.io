@@ -18,7 +18,7 @@ html {
     font-size: 100%;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
-    direction: rtl;
+    direction: ltr;
 }
 
 a:focus {
@@ -103,7 +103,7 @@ body {
     line-height: 20px;
     color: #333;
     background-color: #fff;
-    direction: rtl;
+    direction: ltr;
 }
 
 a {
@@ -2163,7 +2163,7 @@ ul.icons li [class^="icon-"], ul.icons li [class*=" icon-"] {
 
 body {
     background-color: #000;
-    direction: rtl;
+    direction: ltr;
 }
 
 main.container, main.content>.container {
