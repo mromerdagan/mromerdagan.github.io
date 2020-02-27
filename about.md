@@ -4,9 +4,18 @@ title: About
 permalink: /about/
 ---
 
-שלום, שמי עומר נשוי לחן ואבא לנדב.
-אני עובד כמהנדס תוכנה, ומדי פעם נתקל בדברים מעניינים ששווה לחלוק.
-תחומי עניין עיקריים- לינוקס אדמיניסטריישן ושפת פייתון.
+Hi,
+
+My name is Omer Dagan, I'm married to Hen, and have two sons: Nadav and Yagel (God bless
+them).
+
+I'm a Linux guy, python C, C++, and generally enthusiast about compter science and
+software engineering.
+
+For me, beeing a programmer / SW engineer means using best practices patterns to solve new
+problems.
+
+This "blog" is more of a presonal documentation website.
 
 {:refdef: style="text-align: center;"}                                             
 ![The big bots project](/img/20190222_151015.jpg)                                    
