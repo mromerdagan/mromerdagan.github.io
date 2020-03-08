@@ -20,6 +20,13 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
+### Linking to posts
+* In order to include link to post on your site, use the `post_url` tag
+* This tag will generate the correct permalink URL for the post you specify
+* If you organize your posts in subdirectories, use `/subdir/2010-07-21-name-of-post`
+* No need to include the file extension when using the `post_url` tag
+* Example: [autotools]({% post_url 2020-02-27-autotools %})
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
